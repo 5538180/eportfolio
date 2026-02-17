@@ -1,0 +1,25 @@
+{
+  "basics": {
+    "name": "Juan Pérez",
+    "label": "Desarrollador Full Stack",
+    "email": "juan@ejemplo.com",
+    "phone": "612345678",
+    "summary": "Desarrollador con 5 años de experiencia..."
+  },
+  "work": [
+    {
+      "company": "Tech Corp",
+      "position": "Developer",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Desarrollo de aplicaciones web"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": ["Laravel", "Symfony"]
+    }
+  ]
+}
